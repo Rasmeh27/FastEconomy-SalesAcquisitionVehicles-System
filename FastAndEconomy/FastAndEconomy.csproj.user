@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\luisg\source\repos\FastAndEconomy\FastAndEconomy\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AcquisitionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="astonMartinForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bmwForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Congrats.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lexusForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mercedesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="purshaseConfirmForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="purshaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="salesRecordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
